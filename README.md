@@ -1,11 +1,5 @@
 # Trained image classification models for Keras
 
-**THIS REPOSITORY IS DEPRECATED. USE THE MODULE `keras.applications` INSTEAD.**
-
-Pull requests will not be reviewed nor merged. Direct any PRs to `keras.applications`. Issues are not monitored either.
-
-----
-
 This repository contains code for the following Keras models:
 
 - VGG16
